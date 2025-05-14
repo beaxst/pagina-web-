@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'beleza',
+    'O que usar para selar a pele?',
+    'pó compacto ou tranlusido'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'musica',
+    'qual é o cantor que canta a musica anos luz?',
+    'matue'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'serie',
+    'qual é a serie que a atriz millie bobby brown atua como eleven?',
+    'stranver things'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'jogo online',
+    'qual é o jogo conhecido por dar booyah quando ganha uma partida?',
+    'O jogo free fire'
 )
